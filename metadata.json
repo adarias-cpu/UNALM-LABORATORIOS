@@ -1,0 +1,6 @@
+{
+  "name": "UNALM - Red de Laboratorios Ambientales",
+  "description": "Portal oficial de servicios de laboratorios ambientales de la Universidad Nacional Agraria La Molina: reservas en línea, protocolos de bioseguridad, consulta de resultados, perfiles de investigadores y mapa de ubicación y recojo de muestras en el campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
